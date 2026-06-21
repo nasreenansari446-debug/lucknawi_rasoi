@@ -1,0 +1,6 @@
+{
+  "name": "Lucknowi Rasoi",
+  "description": "Experience the authentic culinary heritage of the Nawabs in every bite. Traditional Lucknowi kebabs, curries, biryanis, and desserts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

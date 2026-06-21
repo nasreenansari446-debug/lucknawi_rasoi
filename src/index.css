@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Work Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Playfair Display", Georgia, serif;
+  
+  --color-brand-primary: #C5A059;
+  --color-brand-on-primary: #080808;
+  --color-brand-primary-container: #A48344;
+  --color-brand-secondary: #E0DFD5;
+  --color-brand-background: #080808;
+  --color-brand-on-background: #E0DFD5;
+  --color-brand-surface: #080808;
+  --color-brand-surface-low: #0D0D0D;
+  --color-brand-surface-container: #121212;
+  --color-brand-surface-high: #1A1A1A;
+  --color-brand-surface-highest: #242424;
+  --color-brand-on-surface-variant: #A3A199;
+  --color-brand-outline: #444444;
+  --color-brand-outline-variant: #222222;
+}
+
+/* Custom helper utilities matching the brand guidelines and HTML rules */
+.arch-mask {
+  clip-path: ellipse(50% 100% at 50% 100%);
+}
+
+.arch-mask-menu {
+  clip-path: ellipse(50% 70% at 50% 30%);
+}
+
+.royal-glow {
+  box-shadow: 0 0 40px -10px rgba(197, 160, 89, 0.15);
+}
+
+.gold-border-glow {
+  box-shadow: 0 0 15px rgba(197, 160, 89, 0.08);
+}
+
+.diamond-frame {
+  transform: rotate(45deg);
+  overflow: hidden;
+  border: 1px solid rgba(197, 160, 89, 0.3);
+}
+
+.diamond-content {
+  transform: rotate(-45deg) scale(1.4);
+}
+
+.grain-overlay {
+  background-image: url("https://www.transparenttextures.com/patterns/dark-matter.png");
+  opacity: 0.15;
+  pointer-events: none;
+}
+
