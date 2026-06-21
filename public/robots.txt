@@ -1,0 +1,6 @@
+# Robots.txt configuration for Lucknowi Rasoi Bahraich
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://lucknowirasoi-bahraich.in/sitemap.xml
