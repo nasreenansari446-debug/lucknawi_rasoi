@@ -156,7 +156,7 @@ export function LocationTab() {
                 <g transform="translate(140, 110)">
                   <rect x="-10" y="-10" width="20" height="20" rx="3" fill="#1A1A1A" stroke="#C5A059" strokeWidth="1" strokeOpacity="0.4" />
                   <circle cx="0" cy="0" r="3" fill="#C5A059" />
-                  <text x="15" y="4" fill="darkgray" fontSize="9" fontWeight="bold" className="font-sans">Diggaj Chauraha</text>
+                  <text x="15" y="4" fill="darkgray" fontSize="9" fontWeight="bold" className="font-sans">Tikoni Bagh</text>
                 </g>
 
                 {/* Landmark 2: Hotel Vaishnavi */}
@@ -170,7 +170,7 @@ export function LocationTab() {
                 <g transform="translate(560, 240)">
                   <polygon points="0,-10 9,6 -9,6" fill="#1A1A1A" stroke="#C5A059" strokeWidth="1" strokeOpacity="0.5" />
                   <circle cx="0" cy="2" r="3" fill="#C5A059" />
-                  <text x="-10" y="22" fill="darkgray" fontSize="9" fontWeight="bold" className="font-sans">Indira Stadium</text>
+                  <text x="-10" y="22" fill="darkgray" fontSize="9" fontWeight="bold" className="font-sans">Nanpara Bypass</text>
                 </g>
 
                 {/* PRIMARY MARKER: Lucknowi Rasoi */}
@@ -195,7 +195,7 @@ export function LocationTab() {
             <p className="text-xs text-brand-on-surface-variant leading-relaxed mt-4 flex items-start gap-2">
               <span className="text-brand-primary mt-1 shrink-0">•</span>
               <span>
-                <strong>Directions:</strong> If coming from Diggaj Chauraha, proceed southwest on Lucknow Road. We are located near Vaishnavi Hotel, on the left-hand side. Dedicated customer parking is available at our entrance.
+                <strong>Directions:</strong> If coming from Tikoni Bagh Chauraha, proceed southwest on Lucknow Road. We are located near Vaishnavi Hotel, on the left-hand side. Dedicated customer parking is available at our entrance.
               </span>
             </p>
 
@@ -217,7 +217,7 @@ export function LocationTab() {
                 <div>
                   <h4 className="font-bold text-white uppercase text-xs tracking-wider">Our Address</h4>
                   <p className="text-xs text-brand-on-surface-variant mt-0.5 leading-relaxed">
-                    Lucknow Road, Near Vaishnavi Hotel, Civil Lines, Bahraich, UP 271801, India
+                    Lucknow Road, Near Vaishnavi Hotel, Nanpara Bypass, Bahraich, UP 271801, India
                   </p>
                 </div>
               </div>
