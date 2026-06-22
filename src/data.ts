@@ -4,7 +4,7 @@ export const MENU_ITEMS: MenuItem[] = [
   // Signature Kebabs
   {
     name: 'Galauti Kebab',
-    description: 'Finely minced lamb with 160 secret spices, smoked with cloves.',
+    description: '.',
     price: '₹450',
     category: 'kebab',
   },
@@ -40,7 +40,7 @@ export const MENU_ITEMS: MenuItem[] = [
     name: 'SHAHI TUKDA',
     description: 'Golden fried bread soaked in saffron milk and rabri, garnished with silver vark and crushed nuts.',
     price: '60/-',
-    image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuAe7bCdZfaVE03PFu5d9t1x0QPLvz6zvStysL87mHtZu14rmUKojqJV0nPivq15t1ccr-oZ-ecLvva2_lT3aYhbqCu6r7VrLq2lhjiyv__Cfee4jW1gAGT8wdNPQkAB4ys9oKicifBMar6SV4BtSpAH7o41fz-kokHp62W3LjoOSYvufEplpHMlvfttQmOJoO2xSjNw_rSOWV1Wn7VpvRLOkB5bgmetL5urp1IlwkNGCiV4IDi8CuPYBAUBjsEtNX-zfQ69UqNFsWI_',
+    image: 'Screenshot 2026-06-22 135627',
     category: 'dessert',
   },
   {
@@ -52,9 +52,9 @@ export const MENU_ITEMS: MenuItem[] = [
   },
   {
     name: 'KALI GAJAR HALWA',
-    description: 'Premium purple carrot halwa slow-cooked with khoya and cardamom (100G).',
+    description: 'Premium purple carrot halwa slow-cooked.',
     price: '99/-',
-    image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuAmm5r3o1d6SfEAXPN8LYWKDrXebMAAyXpMn6y6aXvrIXJPhohDbiUylTvT-LUc-XMyBgoCAjgQ_11vD9P_FQNaAAys0lXNe7CVsN-f2n3hL2UhtDkziLh_RvGdx4uQ5e_1EMVIan8lkg3p1bXFCvbSh5rLfcln9Pi4-ndCSa52M-cH3FD1GSoK0EK0LA-MtYhxx0qR9eshZleCujXH208dw74EMT_RiOOlPK6hLWqiyRiGHwtyjv6Vztnz3_Hogg-2Ni776ihxkCZ4',
+    image: 'Screenshot 2026-06-22 135330',
     category: 'dessert',
   },
   // Beverages
