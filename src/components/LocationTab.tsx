@@ -114,7 +114,7 @@ export function LocationTab() {
             </div>
 
             {/* Vector SVG Map Container */}
-           <img src="location.png"></img>
+           <img src="location.png" height="113px" width="220.92px"></img>
 
             <p className="text-xs text-brand-on-surface-variant leading-relaxed mt-4 flex items-start gap-2">
               <span className="text-brand-primary mt-1 shrink-0">•</span>
