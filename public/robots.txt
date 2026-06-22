@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://lucknowirasoi-bahraich.in/sitemap.xml
+Sitemap: https://lucknawi-rasoi.onrender.com/sitemap.xml
