@@ -6,18 +6,21 @@ export const MENU_ITEMS: MenuItem[] = [
     name: 'Galauti Kebab',
     description: '.',
     price: '₹450',
+    image: 'https://images.slurrp.com/prod/community/2022/July/44da217a-0a7c-472e-9fa7-171721da4827-1659206228920.webp?impolicy=slurrp-20210601&width=1200&height=675',
     category: 'kebab',
   },
   {
     name: 'Kakori Kebab',
     description: "The world's softest seekh kebab, flavored with saffron and rose.",
     price: '₹480',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh7t4HJwxhdegtRnW5111CKEgvLK3QJyafsBktfDtO9P2ULAuV4R95sIZ1&s=10',
     category: 'kebab',
   },
   {
     name: 'Boti Kebab',
     description: 'Succulent cubes of lamb marinated overnight in a rich yogurt blend.',
     price: '₹420',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmO5761NqB2eWVc2HUNHOf5FDwNAYIeAPihimOGN_imQ&s=10',
     category: 'kebab',
   },
   // Specialties
@@ -61,7 +64,7 @@ export const MENU_ITEMS: MenuItem[] = [
   {
     name: 'WATER BOTTLE',
     price: '10/- | 20/-',
-    image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuAeoFdkotTjqpR7_R0y6vvoh69kQy2DkbQOJYiBmHWaOSdaWv_JyO6XIpDoWRVKLdInUXj6Ci20DC7Otn2Trw4uGxirJ-Py2jHn_d6FSpkCQDJnlYaUNYyp0NiJNc3RZTz8IMsBh1T3byzUWCywiOJXLrjnMq-5L1smEjdqmx4Z3dYXf4y8G53zkHfkQXbnxeUXQwJFNgjcWeJTUTba7bupMmwldY_LkXNapJ7lKN65wx77STlK-OFS98AcB7CLzJn3borFTONC2keP',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfQaDhgMIyrKKxmK81sqUo_-uMr1u6Ma_MWe8cU19Eabi9BZDKya27HXNf&s=10',
     category: 'beverage',
   },
   {
@@ -113,14 +116,14 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'entrance',
     title: 'A Grand Welcome to Tradition',
     subtitle: 'The Entrance',
-    image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuD90vBcwWDFbLQw8v7xuFdj7vtUoGYkXKmdR_GNzmAntd6SrHt1ZX4pKrbIcJil8YlON2VtVlae6zUv7L-Xhhjk9LvS3IMDsjpm0XlvaBioF3sRoA_5DcOuUZU3ujXR0F_zpz5Ejhpw3VsC7MUA8q2zwTTmy0pX-7MrSKzdYrqHwsMyIwVd8ozKmJuPHg7GfSJUlX0pXmYnXujyh21aqSuLXhTQgUOX_QBHS14yADAE6sNhTJNkpDWYulOdV78NQbA8_G5PO1-3ftfG',
+    image: 'https://lh3.googleusercontent.com/gps-cs-s/APNQkAEsFmGMxGwgXfBHrDqQzdHpqU8duzL57fmatFYhIX65rIgfLWaEpih3YyyMCLmnhsCV78_LWH7tV_bD35bkfDiWbRQX_PCCyYoZLWTNy1Fpa74r8BWG5Dn0R5qOe48lKHAvWfov3zolFU4=s680-w680-h510-rw',
     category: 'ambiance',
   },
   {
     id: 'interior',
     title: 'Regal Ambiance',
     subtitle: 'Interior',
-    image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBLzxF_6JWlsgvmnqM_bge2jr5nCve4ero6ZCCi9gtgJ5nCXgiQ81faK5dacDjMSGBopUmgX84Qkng1aAYNtTU6FI5f3NcIPR4mJiERPN6hzVcqSv1T4LN4dPVKfhVpvov-ktFy_HU3Kky7klqrpRCibSHLxoSzJlPy6Zikldg3v9j41OyzDMSvfAP_7QpYNAcyxw6C4hQxn5eBEEQ82mJmDok7owWXGKQGkqLpc8LLI9FcDmRwgcNqtMuBdo-2NtqEU5rApcjevT8P',
+    image: 'https://lh3.googleusercontent.com/gps-cs-s/APNQkAFqICfRPRm6ceAzxJKZV17lvQJL9BOIYCjN60J5J_I3wSIVZg3bd8wdX5BtHKtEoVLSzXeV9tKX3Kue8_OcSzy5Sf79rwN-xLD6oF0R1Y62nRhCPrM2OsavU6_z1KVlbXBhaFqvVQ=s680-w680-h510-rw',
     category: 'ambiance',
   },
   {
