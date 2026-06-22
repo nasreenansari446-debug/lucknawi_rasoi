@@ -40,7 +40,7 @@ export const MENU_ITEMS: MenuItem[] = [
     name: 'SHAHI TUKDA',
     description: 'Golden fried bread soaked in saffron milk and rabri, garnished with silver vark and crushed nuts.',
     price: '60/-',
-    image: 'Screenshot 2026-06-22 135627',
+    image: 'Screenshot 2026-06-22 135627.png',
     category: 'dessert',
   },
   {
@@ -54,7 +54,7 @@ export const MENU_ITEMS: MenuItem[] = [
     name: 'KALI GAJAR HALWA',
     description: 'Premium purple carrot halwa slow-cooked.',
     price: '99/-',
-    image: 'Screenshot 2026-06-22 135330',
+    image: 'Screenshot 2026-06-22 135330.png',
     category: 'dessert',
   },
   // Beverages
