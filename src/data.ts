@@ -40,7 +40,7 @@ export const MENU_ITEMS: MenuItem[] = [
     name: 'SHAHI TUKDA',
     description: 'Golden fried bread soaked in saffron milk and rabri, garnished with silver vark and crushed nuts.',
     price: '60/-',
-    image: 'Screenshot 2026-06-22 135627.png',
+    image: 'https://www.palatesdesire.com/wp-content/uploads/2021/05/shahi-tukda-recipe@palates-desire-2-1024x683.jpg',
     category: 'dessert',
   },
   {
@@ -54,7 +54,7 @@ export const MENU_ITEMS: MenuItem[] = [
     name: 'KALI GAJAR HALWA',
     description: 'Premium purple carrot halwa slow-cooked.',
     price: '99/-',
-    image: 'Screenshot 2026-06-22 135330.png',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaTo7VAvflZqvxkjZcVfuf65HOiWEiiBBLk67ffE3dDQ&s=10',
     category: 'dessert',
   },
   // Beverages
