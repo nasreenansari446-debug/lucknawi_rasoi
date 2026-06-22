@@ -1,3 +1,4 @@
+import locationImage from './location.png';
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { MapPin, Phone, Mail, Clock, Send, MessageSquareHeart, Star, HelpCircle, ShieldCheck } from 'lucide-react';
